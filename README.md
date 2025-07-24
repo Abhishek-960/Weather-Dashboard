@@ -102,4 +102,4 @@ Enhanced UI/UX through custom visuals and dynamic filters
 ## Screenshot of Dashboard :
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/Abhishek-960/Weather-Dashboard/blob/main/Dashboard_Glance.png)
