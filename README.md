@@ -1,12 +1,12 @@
-🌦️ Weather Dashboard: Real-Time Weather & AQI Dashboard in Power BI
+🌦️ **Weather Dashboard**: Real-Time Weather & AQI Dashboard in Power BI
 A dynamic and interactive Power BI dashboard that visualizes real-time weather conditions and air quality data using WeatherAPI — combining environmental awareness with clean data storytelling.
 
 
-🔍 Project Overview
+🔍** Project Overview**
 The Weather Dashboard is designed to provide users with live weather insights and Air Quality Index (AQI) metrics for various cities using data sourced from WeatherAPI.com. This project focuses on creating a powerful, real-time monitoring solution using Power BI Desktop, emphasizing clarity, responsiveness, and user-friendly interactivity.
 
 
-🚀 Key Features
+🚀 **Key Features**
 🌡️ Live Weather Cards: Displays temperature, humidity, wind speed, and other real-time data points using WeatherAPI’s current weather JSON feed.
 
 🧭 Wind Speed Gauges: Visual indicators that show the strength and direction of current wind conditions.
@@ -26,7 +26,7 @@ Health-based suggestions for users depending on air quality.
 🧠 Reusable DAX Patterns: Templates for AQI color, suggestion, and status — easily adaptable for any pollutant.
 
 
-🧰 Technologies & Tools Used
+🧰 **Technologies & Tools Used**
 Power BI Desktop – Data modeling, report building, and interactivity.
 
 WeatherAPI.com – Live weather & AQI data in JSON format.
@@ -38,7 +38,7 @@ DAX (Data Analysis Expressions) – For AQI logic and dynamic indicators.
 Custom Visuals & Icons – For enhanced UI/UX.
 
 
-🔧 How It Works
+🔧 **How It Works**
 API Integration:
 Fetches live weather and AQI data using a custom URL like:
 
@@ -69,7 +69,7 @@ AQI Suggestion outputs a user-friendly message.
 AQI Status categorizes the air quality.
 
 
-📊 Sample DAX Logic
+📊** Sample DAX Logic**
 DAX
 Copy
 Edit
@@ -86,7 +86,7 @@ RETURN SWITCH(
 )
 
 
-📌 Learning Outcomes
+📌** Learning Outcomes**
 Real-time API integration within Power BI
 
 Effective use of Power Query for JSON handling
@@ -96,7 +96,7 @@ AQI categorization using DAX logic
 Enhanced UI/UX through custom visuals and dynamic filters
 
 
-🧠 Future Enhancements
+🧠** Future Enhancements**
 🔄 Auto-refresh using Power BI Gateway (for live updates)
 
 🌤️ 5-day Forecast Module
@@ -106,4 +106,4 @@ Enhanced UI/UX through custom visuals and dynamic filters
 🔔 Alert system for severe weather/AQI
 
 
-Screenshot of Dashboard:
+**Screenshot of Dashboard** :
